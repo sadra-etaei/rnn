@@ -83,6 +83,6 @@ The vormers is that how
 
 
 
-the lstm model was trained with 2 layers and 512 hidden dimension for a couple of hours to achieve these results
+## the lstm model was trained with 2 layers and 512 hidden dimension for a couple of hours to achieve these results
 
 
